@@ -5,10 +5,11 @@
 
 Starring: Mary McCormack, Fred Weller, Nichole Hiltz, Todd Williams, Lesley Ann Warren, Paul Ben-Victor, CristiÃ¡n de la Fuente, Rachel Boston
 
-### Files Given:
+### Files Given: challenge
 
 
 Like legit, when i first came to this i thought i was going to be needing some sort of VM in order to run it. So before i did anything i wanted to see what happens if i were to cat the file in terminal
+
 ```
 ELFï¿½4X4 	(444  TTTï¿½	ï¿½	ï¿½ï¿½ï¿½DHï¿½ï¿½ï¿½ï¿½ï¿½hhhDDPï¿½td<<Qï¿½tdRï¿½tdï¿½ï¿½ï¿½<</lib/ld-linux.so.2GNUGNUcï¿½Aï¿½1ï¿½ï¿½&ï¿½;ï¿½0ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½
                                
@@ -45,15 +46,27 @@ That definitely rings a bell! Thank you!That doesn't sound familiar... :/;8ï
                  ï¿½ï¿½Zï¿½a m-ï¿½rpï¿½ ï¿½ C@
                                                            crtstuff.cderegister_tm_clones__do_global_dtors_auxcompleted.7281__do_global_dtors_aux_fini_array_entryframe_dummy__frame_dummy_init_array_entrychallenge.c__FRAME_END____init_array_end_DYNAMIC__init_array_start__GNU_EH_FRAME_HDR_GLOBAL_OFFSET_TABLE___libc_csu_finistrcmp@@GLIBC_2.0_ITM_deregisterTMCloneTable__x86.get_pc_thunk.bxprintf@@GLIBC_2.0fgets@@GLIBC_2.0_edata__stack_chk_fail@@GLIBC_2.4__x86.get_pc_thunk.dx__cxa_finalize@@GLIBC_2.1.3__data_startputs@@GLIBC_2.0__gmon_start____dso_handle_IO_stdin_used__libc_start_main@@GLIBC_2.0__libc_csu_initstdin@@GLIBC_2.0_fp_hw__bss_startmain__stack_chk_fail_local__TMC_END___ITM_registerTMCloneTable.symtab.strtab.shstrtab.interp.note.ABI-tag.note.gnu.build-id.gnu.hash.dynsym.dynstr.gnu.version.gnu.version_r.rel.dyn.rel.plt.init.plt.got.text.fini.rodata.eh_frame_hdr.eh_frame.init_array.fini_array.dynamic.data.bss.commentTT#hh 1ï¿½ï¿½$Dï¿½ï¿½ï¿½oï¿½ï¿½ N
                                                                  ï¿½ï¿½ï¿½Vï¿½ï¿½ï¿½^ï¿½ï¿½ï¿½ollkï¿½ï¿½ï¿½oï¿½ï¿½@z	ï¿½ï¿½Hï¿½	B0ï¿½@@#ï¿½pppï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<ï¿½ ï¿½$,ï¿½+	ï¿½ï¿½[ï¿½
-                                                                 ```
+```
+
+
+
+
+
+
 at first i thought
 *hmmmm this is just random junk*
 until i looked closer to find this line
+
+
 ```
 Hey there, I know I am the challenge and all, but I forgot what the flag was...Could you just tell me the flag real quick? Please? MCA{y3ah_sur3_here_y0u_g0}
 That definitely rings a bell! Thank you!That doesn't sound familiar...
+
 ```
 Flag:
+
+
 ```
 MCA{y3ah_sur3_here_y0u_g0}
+
 ```
