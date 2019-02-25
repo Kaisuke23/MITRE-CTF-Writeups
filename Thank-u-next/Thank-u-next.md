@@ -1,6 +1,8 @@
 # Thank U, Next
 ## Crypto - 200 points
 
+## *** NOT COMPLETED ***
+
 ### Description: ~~iMessage~~
 ### ~~Telegram~~
 ### ~~Signal~~
@@ -39,7 +41,10 @@ LETS RUN IT THROUGH A BINARY CONVERTER!!!!!
 
 *** BEEP BOOP ***
 
-Flag :
-```
-MCA{IRC_FOR_LIFE!_RIDE_OR_DIE!}
-```
+Flag?
+
+~~MCA{IRC_FOR_LIFE!_RIDE_OR_DIE!}~~
+
+
+HOLY DANG I GOT BAMBOOZLED!!!!
+time for me to dive into the rabbit hole even further
